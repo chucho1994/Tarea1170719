@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TatuarseDonar</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Ingresa_nombre">Ingresa nombre</string>
+
+    <string name="apellid">Apellido</string>
+    <string name="Ingresa_apellido">Ingresa Apellido</string>
+
+    <string name="edad">Edad</string>
+    <string name="ingresa_edad">Ingresa edad</string>
+
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+
+    <string name="Intereses">Intereses</string>
+
+    <string name="Deportes">Deportes</string>
+    <string name="Educacion">Educacion</string>
+
+    <string name="Viddeo_juegos">Video juegos</string>
+    <string name="Arte">Arte</string>
+
+    <string name="libros">Libros</string>
+    <string name="Belleza">Belleza</string>
+
+    <string name="tatuajes">tatuajes</string>
+    <string name="tatuajess2">tatuado</string>
+
+    <string name="donar">donar</string>
+    <string name="donar2">Gracias por donar</string>
+
+    <string name="Acepto_terminos">Acepto terminos y condiciones</string>
+    <string name="Permitir_usar_datos">Permitir usar datos para fines estadisticos</string>
+
+    <string name="Borrar">Borrar</string>
+    <string name="Registrar">Registar</string>
+
+
+
+</resources>
